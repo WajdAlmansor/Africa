@@ -1,4 +1,4 @@
-#Africa – SwiftUI iOS App
+# Africa – SwiftUI iOS App
 
 **Africa** is a **SwiftUI** app built as part of a learning course.
 
